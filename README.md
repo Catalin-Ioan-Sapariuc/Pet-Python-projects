@@ -4,4 +4,5 @@ I expect these codes to grow and change in time.
 Currently this repository contains the following programs: 
 -- quadraticeqsolver.py
 -- nonlinearsolver.py 
+-- naturals.py 
 Description about each program is provided in their respective headers. 
